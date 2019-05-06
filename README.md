@@ -1,6 +1,6 @@
 # Proses Redirect 
 
-Dari burhanudinyahya.github.io ke burhanudinyahya.id
+Dari [burhanudinyahya.github.io](https://burhanudinyahya.github.io) ke [burhanudinyahya.id](https://www.burhanudinyahya.id)
 
 ## Pertama
 
